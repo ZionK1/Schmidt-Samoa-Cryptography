@@ -1,7 +1,7 @@
-# Assignment 5: Public Key Cryptography
+# Schmidt-Samoa Public Key Cryptography
 
 ## Description:
-	In this assignment, we create three programs: keygen, encrypt, and decrypt. The keygen program
+	In this project, I implemented three programs: keygen, encrypt, and decrypt. The keygen program
 	is in charge of key generation, producing SS public and private key pairs. The encrypt program
 	encrypt files using a public key and the decrypt program decrypts the encrypted files using
 	the corresponding private key.
